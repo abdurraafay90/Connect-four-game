@@ -8,7 +8,11 @@ connect4.py — Contains the game logic and AI (Minimax algorithm)
 How to Run
 Install Pygame:
 
-```pip install pygame
+```
+pip install pygame
+```
 
 Run the game:
-```python runner.py
+```
+python runner.py
+```
