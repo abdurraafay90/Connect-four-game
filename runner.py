@@ -1,7 +1,7 @@
 import pygame
 import sys
 import time
-import connect_four as cf
+import Logic as cf
 
 pygame.init()
 size = width, height = 700, 800
