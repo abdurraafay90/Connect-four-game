@@ -4,8 +4,11 @@ Built as part of our AI course project.
 
 Project Structure
 connect4.py — Contains the game logic and AI (Minimax algorithm)
+runner.py — Runs the game using Pygame
+
 
 How to Run
+
 Install Pygame:
 
 ```
